@@ -97,7 +97,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 </div>
 
 ---
-
+	
 ## Projects
 
 
