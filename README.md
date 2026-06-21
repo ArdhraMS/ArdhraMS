@@ -53,17 +53,16 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ---
 
 ## 🚀 Projects
-
 ## Projects
 
 <ul>
 
   <li>
-    <strong>📊 Netflix Data Analysis (EDA Project)</strong><br><br>
+    <strong>Netflix Data Analysis (EDA Project)</strong><br><br>
 
     Exploratory Data Analysis on Netflix Movies and TV Shows dataset to understand content trends and patterns.<br><br>
 
-    🔍 <strong>Key Analysis:</strong>
+    Key Analysis:
     <ul>
       <li>Movies vs TV Shows distribution</li>
       <li>Content ratings analysis</li>
@@ -73,40 +72,40 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
       <li>Pivot table (Ratings vs Type)</li>
     </ul>
 
-    📈 <strong>Key Insights:</strong>
+    Key Insights:
     <ul>
       <li>Netflix has more Movies than TV Shows</li>
       <li>TV-MA is the most common rating</li>
-      <li>Content growth increased significantly after 2016</li>
+      <li>Content growth increased after 2016</li>
       <li>USA dominates content production</li>
-      <li>Drama & International Movies are most common genres</li>
+      <li>Drama & International Movies are most common</li>
     </ul>
 
-    🛠 <strong>Tools Used:</strong> Python, Pandas, Matplotlib, Seaborn<br><br>
+    Tools Used: Python, Pandas, Matplotlib, Seaborn<br><br>
 
-    <a href="YOUR_NETFLIX_REPO_LINK">🔗 Repository</a> |
-    <a href="YOUR_NOTEBOOK_LINK">📓 Notebook</a>
+    <a href="YOUR_NETFLIX_REPO_LINK">Repository</a> |
+    <a href="YOUR_NOTEBOOK_LINK">Notebook</a>
   </li>
 
   <br>
 
   <li>
-    <strong>📈 Sales & Revenue Dashboard (Upcoming Project)</strong><br><br>
+    <strong>Sales & Revenue Dashboard (Upcoming Project)</strong><br><br>
 
-    Business analytics project focused on analyzing retail sales data to uncover revenue trends and product performance insights.<br><br>
+    Business analytics project focused on analyzing retail sales data to uncover revenue trends and product performance.<br><br>
 
-    🔍 <strong>Planned Analysis:</strong>
+    Key Analysis:
     <ul>
       <li>Sales trends over time</li>
       <li>Top-performing products</li>
       <li>Seasonal revenue patterns</li>
-      <li>Customer behavior analysis</li>
-      <li>Category-wise performance insights</li>
+      <li>Customer behavior insights</li>
+      <li>Category performance analysis</li>
     </ul>
 
-    📊 <strong>Tools Planned:</strong> Power BI / Tableau / Plotly<br><br>
+    Tools Planned: Power BI / Tableau / Plotly<br><br>
 
-    🎯 Goal: Build an interactive dashboard for business decision-making insights.
+    Goal: Build an interactive dashboard for business decision-making insights.
   </li>
 
 </ul>
