@@ -54,6 +54,8 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## 🚀 Projects
 
+## Projects
+
 <ul>
 
   <li>
@@ -75,9 +77,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
     <ul>
       <li>Netflix has more Movies than TV Shows</li>
       <li>TV-MA is the most common rating</li>
-      <li>Content growth increased after 2016</li>
+      <li>Content growth increased significantly after 2016</li>
       <li>USA dominates content production</li>
-      <li>Drama & International Movies are most common</li>
+      <li>Drama & International Movies are most common genres</li>
     </ul>
 
     🛠 <strong>Tools Used:</strong> Python, Pandas, Matplotlib, Seaborn<br><br>
@@ -91,20 +93,20 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <li>
     <strong>📈 Sales & Revenue Dashboard (Upcoming Project)</strong><br><br>
 
-    Business analytics project focused on analyzing retail sales data to uncover revenue trends and product performance.<br><br>
+    Business analytics project focused on analyzing retail sales data to uncover revenue trends and product performance insights.<br><br>
 
     🔍 <strong>Planned Analysis:</strong>
     <ul>
       <li>Sales trends over time</li>
       <li>Top-performing products</li>
       <li>Seasonal revenue patterns</li>
-      <li>Customer behavior insights</li>
-      <li>Category performance analysis</li>
+      <li>Customer behavior analysis</li>
+      <li>Category-wise performance insights</li>
     </ul>
 
     📊 <strong>Tools Planned:</strong> Power BI / Tableau / Plotly<br><br>
 
-    🎯 Goal: Build an interactive dashboard for decision-making insights.
+    🎯 Goal: Build an interactive dashboard for business decision-making insights.
   </li>
 
 </ul>
@@ -115,7 +117,6 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <ul>
   <li>Advanced SQL & Database Optimization</li>
   <li>Machine Learning & Predictive Analytics</li>
-  <li>Cloud Data Platforms (AWS / Azure)</li>
 </ul>
 
 ---
