@@ -3,11 +3,9 @@
 
 ---
 
-
 <div align="center">
 <a href="https://github.com/ArdhraMS"><h2>View My Portfolio</h2></a>
 </div>
-
 
 ---
 
@@ -25,12 +23,6 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <!--
-  <img src="https://img.shields.io/badge/R-00578F?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
-  -->
-  <!--
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=Matlab&logoColor=white" alt="Matlab"/>
-  -->
 </p>
 
 ### Tools
@@ -43,89 +35,83 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
-### SQL
+### Data Science Libraries
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-Joins-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Joins"/>
-  <img src="https://img.shields.io/badge/SQL-Aggregations-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Aggregations"/>
-  <img src="https://img.shields.io/badge/SQL-CTEs-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL CTEs"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
-
-### Excel
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Cleaning"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Analysis"/>
-  <img src="https://img.shields.io/badge/Excel-Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Pivot Tables"/>
-</p>
-
-### Data Science & Machine Learning
-<p align="left">
-  <!-- Python Data Science -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-
-<!-- R Ecosystem 
-<img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
-<img src="https://img.shields.io/badge/ggplot2-3B3B98?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
-<img src="https://img.shields.io/badge/clientmat-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="clientmat"/>
-<img src="https://img.shields.io/badge/stars-00AEEF?style=for-the-badge&logo=r&logoColor=white" alt="stars"/>
-</p>
--->
-
-### Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
-</p>
-
-<br />
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/ArdhraMS" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
-</div>
-
 ---
-	
-## Projects
 
+## 🚀 Projects
 
 <ul>
-  <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">Notebook</a>
-  </li>
 
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">Notebook</a>
-  </li>
-  
-  <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">Notebook</a>
+    <strong>📊 Netflix Data Analysis (EDA Project)</strong><br><br>
+
+    Exploratory Data Analysis on Netflix Movies and TV Shows dataset to understand content trends and patterns.<br><br>
+
+    🔍 <strong>Key Analysis:</strong>
+    <ul>
+      <li>Movies vs TV Shows distribution</li>
+      <li>Content ratings analysis</li>
+      <li>Content growth over time</li>
+      <li>Top countries producing content</li>
+      <li>Top genres analysis</li>
+      <li>Pivot table (Ratings vs Type)</li>
+    </ul>
+
+    📈 <strong>Key Insights:</strong>
+    <ul>
+      <li>Netflix has more Movies than TV Shows</li>
+      <li>TV-MA is the most common rating</li>
+      <li>Content growth increased after 2016</li>
+      <li>USA dominates content production</li>
+      <li>Drama & International Movies are most common</li>
+    </ul>
+
+    🛠 <strong>Tools Used:</strong> Python, Pandas, Matplotlib, Seaborn<br><br>
+
+    <a href="YOUR_NETFLIX_REPO_LINK">🔗 Repository</a> |
+    <a href="YOUR_NOTEBOOK_LINK">📓 Notebook</a>
   </li>
 
-  
+  <br>
+
+  <li>
+    <strong>📈 Sales & Revenue Dashboard (Upcoming Project)</strong><br><br>
+
+    Business analytics project focused on analyzing retail sales data to uncover revenue trends and product performance.<br><br>
+
+    🔍 <strong>Planned Analysis:</strong>
+    <ul>
+      <li>Sales trends over time</li>
+      <li>Top-performing products</li>
+      <li>Seasonal revenue patterns</li>
+      <li>Customer behavior insights</li>
+      <li>Category performance analysis</li>
+    </ul>
+
+    📊 <strong>Tools Planned:</strong> Power BI / Tableau / Plotly<br><br>
+
+    🎯 Goal: Build an interactive dashboard for decision-making insights.
+  </li>
+
 </ul>
 
 ---
 
-## Future Project
+## Future Learning Goals
 <ul>
   <li>Advanced SQL & Database Optimization</li>
   <li>Machine Learning & Predictive Analytics</li>
@@ -136,16 +122,13 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## Connect With Me
 <p align="center">
-<!-- linkdin-->
-  <a href="www.linkedin.com/in/ardhra-manaparambil-sunilkumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<!-- Email -->
-  <a href="ardhramsunil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.linkedin.com/in/ardhra-manaparambil-sunilkumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-
+  <a href="mailto:ardhramsunil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
