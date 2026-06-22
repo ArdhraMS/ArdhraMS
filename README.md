@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<a href="https://github.com/ArdhraMS"><h2>View My Portfolio</h2></a>
+<a href="https://github.com/UserNameHere"><h2>View My Portfolio</h2></a>
 </div>
 
 
@@ -87,6 +87,16 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ---
 
+## GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
+</div>
+
+---
 
 ## Projects
 
