@@ -121,8 +121,6 @@ Key Insights:
 
 Tools Used: Python, Pandas, Matplotlib, Seaborn
 
-Repository: YOUR_NETFLIX_REPO_LINK  
-Notebook: YOUR_NOTEBOOK_LINK
 
 ---
 
@@ -151,17 +149,20 @@ Goal: Build an interactive dashboard for business decision-making insights.
 ---
 
 ## Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ardhra-manaparambil-sunilkumar">
-    LinkedIn
+<!-- linkdin-->
+  <a href="YOUR LINKDIN URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  |
-  <a href="mailto:ardhramsunil@gmail.com">
-    Email
+<!-- Email -->
+  <a href="YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
 
----
+  <a href="YOUR_Facebook_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
+  </a>
+
+</p>
 
 <p align="center"><strong>Thanks for visiting!</strong></p>
