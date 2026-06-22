@@ -44,6 +44,21 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 </p>
 
 ---
+<!-- R Ecosystem 
+<img src="https://img.shields.io/badge/Tidyverse-1E90FF?style=for-the-badge&logo=r&logoColor=white" alt="Tidyverse"/>
+<img src="https://img.shields.io/badge/ggplot2-3B3B98?style=for-the-badge&logo=r&logoColor=white" alt="ggplot2"/>
+<img src="https://img.shields.io/badge/clientmat-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="clientmat"/>
+<img src="https://img.shields.io/badge/stars-00AEEF?style=for-the-badge&logo=r&logoColor=white" alt="stars"/>
+</p>
+-->
+
+### Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
+</p>
+
+<br />
 
 ## GitHub Stats
 
